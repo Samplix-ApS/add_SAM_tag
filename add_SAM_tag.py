@@ -13,6 +13,7 @@ def print_help():
     print('-b      create sorted and indexed bam file. Default is true. Set to false to skip\n')
     print('-r      add read name as tag. Default is true. Set to false to chagne it.\n')
     print('-c      add mapped chromosomes as tag. Default is true. Set to false to chagne it.\n')
+    ### whatever
 
 def is_output_bam(bam_arg):
     if bam_arg == '':
