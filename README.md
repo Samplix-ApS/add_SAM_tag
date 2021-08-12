@@ -21,7 +21,7 @@ Download the python script.
 
 * To add the tags run the following command:
 ```
-python3 addSAMtag.py -i S/BAM_file <optional> 
+python3 add_SAM_tag.py -i S/BAM_file <optional> 
 
 ```
 -i	input alignment file in BAM or SAM format with header
@@ -34,7 +34,7 @@ python3 addSAMtag.py -i S/BAM_file <optional>
 
 Any advise for common problems or issues.
 ```
-python3 addSAMtag.py -h
+python3 add_SAM_tag.py -h
 ```
 
 ## Authors
