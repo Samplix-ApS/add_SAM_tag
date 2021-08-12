@@ -24,7 +24,7 @@ Viewing reads mapped to insertion sequence and comparing to reads mapped to chro
 ### Dependencies
 
 * Python3
-* samtools 1.9 (using htslib 1.9)(the script has not been tested with later versions, but would likely work)
+* samtools 1.9 (using htslib 1.9)(the script has not been tested with later versions, but would likely work) must be in path
 * IGV for viewing the alignment
 ### Installation
 
