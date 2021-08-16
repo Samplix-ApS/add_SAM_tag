@@ -7,16 +7,20 @@ Two tags are currently possible: read name (RG) and all chromosomes which each r
 Using these two tags, this allows for coloring by read name (enabling to see chimeric reads) and grouping alignments by chromosomes. This is highly useful when working with inserts. 
 
 Coloring and grouping by readname (tag RG):
+
 ![image](https://user-images.githubusercontent.com/60882704/129158470-d4f5edfc-5230-4d82-80a9-fbc85c071cc7.png)
 
 Coloring and grouping by chromosome (tag RZ):
+
 ![image](https://user-images.githubusercontent.com/60882704/129158712-cf2bde45-b985-4c86-8b57-bd72061d70d2.png)
 
 
 Coloring by readname (tag RG) and grouping by chromosome (tag RZ): 
+
 ![image](https://user-images.githubusercontent.com/60882704/129158273-87011e96-d639-4697-8f76-495424ccf022.png)
 
 Viewing reads mapped to insertion sequence and comparing to reads mapped to chromosome 18:
+
 ![image](https://user-images.githubusercontent.com/60882704/129162641-04091ff4-a106-4ee1-9b1e-4f3fc9c3a8d1.png)
 
 ## Getting Started
