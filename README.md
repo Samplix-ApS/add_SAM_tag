@@ -6,10 +6,10 @@ Tool for adding tags to S/BAM files to aid viewing in IGV.
 - [Getting Started](#get_started)
   - [Dependencies](#dependencies)
   - [Installation](#install_)
-  - [Executing program](#execute_program)
-  - [Viewing in IGV](#view_IGV)
-  - [Help](#help_)
-  - [Authors](#authors_)
+- [Executing program](#execute_program)
+- [Viewing in IGV](#view_IGV)
+- [Help](#help_)
+- [Authors](#authors_)
 
 ## <a name="descrip"></a> Description
 
@@ -44,7 +44,7 @@ Viewing reads mapped to insertion sequence and comparing to reads mapped to chro
 
 Download the python script. 
 
-### <a name="execute_program"></a> Executing program
+## <a name="execute_program"></a> Executing program
 
 * To add the tags run the following command:
 ```
